@@ -11,6 +11,6 @@ A beautiful calculator built with HTML, CSS, and JavaScript.
 - Beautiful and responsive design
 
 ---
-## To view the project click this link: https://hanif534.github.io/Basic_Calculator/
+## To view the project click this link: <a href="https://hanif534.github.io/Basic_Calculator/" target="_blank">https://hanif534.github.io/Basic_Calculator/</a>
 
 
